@@ -1,4 +1,4 @@
-# [Introduction & Context](https://github.com/fersanli/covid-data-eda)
+### [Introduction & Context](https://github.com/fersanli/covid-data-eda)
 
 The Covid-19 pandemic is a major global health threat. SARS-CoV-2 virus was first seen in China towards the end of 2019. In the UK, first case was recorded in the end of January 2020. The first Covid-19 jab was administered on 8th December 2020. In those earlier days of the pandemic, age was determined to be the one of the main factors. After two waves, several restrictions and millions of vaccinations, today there's an apparent threat of the third wave which is predominantly propelled by the Delta variant.
 
